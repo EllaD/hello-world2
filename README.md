@@ -1,2 +1,4 @@
 # hello-world2
-Trying to learn this thing
+Hello World, 
+
+I'm trying to learn git hub. 
